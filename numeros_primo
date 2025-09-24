@@ -1,10 +1,12 @@
-numero = int (input("digite um numero"))
-if numero > 1 % 1 == 0:
-    print(f"{numero}é um numero primo")
+numero = int (input("digite um número:"))
+for numero in range(numero)
+if numero > 1 % 2 == 0:
+    print (f"{numero} é um numero primo") 
 
-if numero < 2 :
-    
-    print (f"{numero}não um numero primo")
+
+else:  
+        
+    print (f"{numero} não um numero primo")
 
     
 
