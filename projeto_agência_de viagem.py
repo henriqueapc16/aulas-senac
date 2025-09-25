@@ -1,4 +1,5 @@
-
+print("\n\n")
+print("Agência de viagem" )
 valor = float(input("digite o valor disponivel para viagem (r$):"))
 regiao = str(input("digite a cidade de origem:"))
 
@@ -19,4 +20,6 @@ for i in (destinos):
     break
 
 escolha_destino = int(input("escolha o destino (0,1,2,3,4):"))
+
+opc_transporte = [f"ônibus (R$ 155)", "carona( R$ 110)","avião (R$ 500)"]
 
