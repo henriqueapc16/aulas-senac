@@ -11,7 +11,7 @@ if(mult==0):
 else:
     print(" não é primo",n)
 """
-
+# condicional
 def eh_primo(n):
     if n <= 1:
         return False
